@@ -18,8 +18,8 @@
   "bronze:Feature": {
     "NAME": "機能の一つ",
     "DESCRIPTIONS": [
-      " #y状態異常 をドローまた #y廃棄 した時、 #b ",
-      " #yブロック を得る。"
+      "#y状態異常 をドローまたは #y廃棄 した時、 #b",
+      " ブロックを得る。"
     ]
   },
   "bronze:InfiniteBeams": {
